@@ -59,55 +59,83 @@ public class Main {
 
         //PROBLEM 1
         //print 5 rows ,3 col
-//        for (int i=1;i<=5;i++) {
-//            for (int j = 1; j <= 3; j++)
-//                System.out.print("$");
-//            System.out.println(" ");
-//        }
+
+        System.out.println("PROBLEM 1:");
+        for (int i=1;i<=5;i++) {
+            for (int j = 1; j <= 3; j++)
+                System.out.print("$");
+            System.out.println(" ");
+        }
 
 
                 //PROBLEM 2
-//            for(int i=1;i<=5;i++){
-//                for (int j=1;j<=i;j++)
-//                    System.out.print("$");
-//                System.out.println("");
-//            }
+        System.out.println("PROBLEM 3:");
+            for(int i=1;i<=5;i++){
+                for (int j=1;j<=i;j++)
+                    System.out.print("$");
+                System.out.println("");
+            }
 
 
         //PROBLRM 3
-//        for (int i=1;i<=5;i++){
-//            for(int j=1;j<=i;j++)
-//                System.out.print(j);
-//            System.out.println(" ");
-//        }
+        System.out.println("PROBLEM 3:");
+        for (int i=1;i<=5;i++){
+            for(int j=1;j<=i;j++)
+                System.out.print(j);
+            System.out.println(" ");
+        }
 
         //PROBLEM 4
-//            for(int i=1;i<=5;i++){
-//                for(int j=1;j<=i;j++)
-//                    System.out.print(i);
-//                System.out.println(" ");
-//            }
+        System.out.println("PROBLEM 4:");
+            for(int i=1;i<=5;i++){
+                for(int j=1;j<=i;j++)
+                    System.out.print(i);
+                System.out.println(" ");
+            }
 
          //PROBLEM 5
-//        for (int i=5;i>=1;i--){
-//            for (int j=i;j>=1;j--)
-//                System.out.print("$");
-//            System.out.println(" ");
-//        }
+        System.out.println("PROBLEM 5:");
+        for (int i=5;i>=1;i--){
+            for (int j=i;j>=1;j--)
+                System.out.print("$");
+            System.out.println(" ");
+        }
 
         //PROBLEM 6
-//        for(int i=5;i>=1;i--){
-//            for (int j=1;j<=i;j++) {
-//                System.out.print(j);
-//
-//            }
-//                System.out.println(" ");
-//        }
+        System.out.println("PROBLRM 6: ");
+        for(int i=5;i>=1;i--){
+            for (int j=1;j<=i;j++) {
+                System.out.print(j);
+
+            }
+                System.out.println(" ");
+        }
 
 
         //PROBLEM 7
+//        System.out.println("PROBLEM 7:");
+//        for (int i=1;i<=5;i++){
+//            for (int j=5;j>=i;j--){
+//                System.out.print(" ");
+//            }
+//            System.out.print("*");
+//            System.out.println();
+//        }
+        //PROBLEM 8
 
-
+        System.out.println("PROBLEM 8:");
+        for (int i=1;i<=4;i++){
+            for (int j=2;j<=i;j++){
+                System.out.print(" ");
+            }
+            for (int k=4;k>=i;k--){
+                System.out.print("*");
+            }
+            for(int l=3;    l>=i;l--){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
 
 
     }
