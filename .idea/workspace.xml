@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="Pattern questions">
-      <change afterPath="$PROJECT_DIR$/src/pattern_26nov.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="26-11-2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pattern_Printing_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_Printing_Question.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Pattern_Printing_Question.executor": "Run",
-    "Application.pattern_26nov.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_Printing_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_26nov.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.pattern_26nov">
+}</component>
+  <component name="RunManager" selected="Application.Pattern_Printing_Question">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA College" />
@@ -86,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_Printing_Question" />
         <item itemvalue="Application.pattern_26nov" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Pattern_Printing_Question" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732386888311</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="26-11-2024">
+      <option name="closed" value="true" />
+      <created>1732637149128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732637149128</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +154,7 @@
     <MESSAGE value="22/11/2024 Class" />
     <MESSAGE value="Patren Printng question" />
     <MESSAGE value="Pattern questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern questions" />
+    <MESSAGE value="26-11-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="26-11-2024" />
   </component>
 </project>
