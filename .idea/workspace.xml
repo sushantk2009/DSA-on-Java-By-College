@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="26-11-2024">
+    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="no work">
+      <change afterPath="$PROJECT_DIR$/src/functions_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_Printing_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_Printing_Question.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_Printing_Question.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_26nov.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Pattern_Printing_Question.executor": "Run",
+    "Application.functions_03.executor": "Run",
+    "Application.pattern_26nov.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Pattern_Printing_Question">
+}]]></component>
+  <component name="RunManager" selected="Application.functions_03">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA College" />
@@ -74,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="functions_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions_03" />
+      <module name="DSA College" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pattern_26nov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern_26nov" />
       <module name="DSA College" />
@@ -83,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.functions_03" />
         <item itemvalue="Application.Pattern_Printing_Question" />
         <item itemvalue="Application.pattern_26nov" />
         <item itemvalue="Application.Main" />
@@ -146,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732637149128</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="no work">
+      <option name="closed" value="true" />
+      <created>1732721853437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732721853437</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +172,7 @@
     <MESSAGE value="Patren Printng question" />
     <MESSAGE value="Pattern questions" />
     <MESSAGE value="26-11-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="26-11-2024" />
+    <MESSAGE value="no work" />
+    <option name="LAST_COMMIT_MESSAGE" value="no work" />
   </component>
 </project>
