@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="no work">
-      <change afterPath="$PROJECT_DIR$/src/functions_03.java" afterDir="false" />
+    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="today">
+      <change afterPath="$PROJECT_DIR$/src/hacker_rank_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +55,14 @@
     "Application.Main.executor": "Run",
     "Application.Pattern_Printing_Question.executor": "Run",
     "Application.functions_03.executor": "Run",
+    "Application.hacker_rank_1.executor": "Run",
     "Application.pattern_26nov.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.functions_03">
+  <component name="RunManager" selected="Application.hacker_rank_1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA College" />
@@ -82,6 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hacker_rank_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hacker_rank_1" />
+      <module name="DSA College" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pattern_26nov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern_26nov" />
       <module name="DSA College" />
@@ -91,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hacker_rank_1" />
         <item itemvalue="Application.functions_03" />
         <item itemvalue="Application.Pattern_Printing_Question" />
         <item itemvalue="Application.pattern_26nov" />
@@ -163,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732721853437</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="today">
+      <option name="closed" value="true" />
+      <created>1733241136232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733241136232</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +191,7 @@
     <MESSAGE value="Pattern questions" />
     <MESSAGE value="26-11-2024" />
     <MESSAGE value="no work" />
-    <option name="LAST_COMMIT_MESSAGE" value="no work" />
+    <MESSAGE value="today" />
+    <option name="LAST_COMMIT_MESSAGE" value="today" />
   </component>
 </project>
