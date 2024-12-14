@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="today">
-      <change afterPath="$PROJECT_DIR$/src/hacker_rank_1.java" afterDir="false" />
+    <list default="true" id="32375bba-48a5-4229-841c-b809e275b562" name="Changes" comment="Hacker rank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functions_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hacker_rank_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hacker_rank_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -50,18 +50,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Pattern_Printing_Question.executor": "Run",
-    "Application.functions_03.executor": "Run",
-    "Application.hacker_rank_1.executor": "Run",
-    "Application.pattern_26nov.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_Printing_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Application.functions_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hacker_rank_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_26nov.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.hacker_rank_1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733241136232</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Hacker rank">
+      <option name="closed" value="true" />
+      <created>1734109399912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734109399912</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +200,7 @@
     <MESSAGE value="26-11-2024" />
     <MESSAGE value="no work" />
     <MESSAGE value="today" />
-    <option name="LAST_COMMIT_MESSAGE" value="today" />
+    <MESSAGE value="Hacker rank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hacker rank" />
   </component>
 </project>
